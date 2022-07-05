@@ -1,6 +1,6 @@
 ### About Me 👋
 ** Business Engineer (Solvay Business School) turned web entrepreneur **
-- Self-taught in scss, tailwind, JS, React/Redux - currently learning Solidity and looking forward to learn Cairo ASAP
+- Self-taught in scss, tailwind, JS, React/Redux - currently learning Solidity and looking forward to learn about Cairo and StarkNet ASAP
 - Passionate about the blockchain technology and web3
 - Proud Flux (GPU) miner
 
